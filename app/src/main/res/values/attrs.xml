@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="sosBoard">
+        <attr name="boardColor" format="color"/>
+        <attr name="sColor" format="color"/>
+        <attr name="oColor" format="color"/>
+        <attr name="winningLineColor" format="color"/>
+        <attr name="winningLineColor2" format="color"/>
+    </declare-styleable>
+</resources>
